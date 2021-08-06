@@ -8,6 +8,8 @@
 - 🔭 I’m currently looking for my first developer job.
 - 🌱 I have experience with Typescript and ReactJS.
 - ⚡ Fun fact: I speak English, Portuguese and French.
+-  📫 Come say hi: <a href="https://www.linkedin.com/in/arthur-sita-gomes-3683221b3/">
+	<img alt="Linkedin URL" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-sita-gomes-3683221b3/">
 
 
 <div align=center>
