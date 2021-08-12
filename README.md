@@ -1,6 +1,6 @@
 ### What's up 👋
 <p>
-  My name's Arthur Sita Gomes, I'm a self-taught front-end web developer, willing to learn and better develop my skills.
+  My name's Arthur Sita Gomes, I'm a self-taught front-end web developer, eager to learn and better develop my skills.
 </br>
   I've made projects using JavaScript, Typescript and ReactJS.
 </p>
