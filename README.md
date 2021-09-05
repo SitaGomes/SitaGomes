@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for my first developer job.
 - 🌱 I have experience with Typescript, Javascript and ReactJS.
-- ⚡ Fun fact: I speak English, Portuguese, French and a little Japonese.
+- ⚡ Fun fact: I speak English, Portuguese, French and a bit of Japonese.
 
 
 <div align=center>
