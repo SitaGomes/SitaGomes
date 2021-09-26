@@ -18,7 +18,6 @@
 </div>
 
 <div align=center>
-	<p>Profiles</p>
 	  <a href="https://twitter.com/ArthurSitaGomes">
 	    <img alt="Arthur's twitter" src="https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/ArthurSitaGomes">
 	  </a>
@@ -26,6 +25,8 @@
 	    <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-sita-gomes-3683221b3/">
 	  </a>
 </div>
+
+<br/>
 
 <p align="center"> Quantidade de visitas no meu perfil desde 24/08/2021  </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SitaGomes/count.svg" /></p>
