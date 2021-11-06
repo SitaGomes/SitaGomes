@@ -1,12 +1,12 @@
 ### What's up 👋
 <p>
-  My name's Arthur Sita Gomes, I'm a self-taught front-end web developer, eager to learn and better develop my skills.
+  My name's Arthur Sita Gomes, I'm a self-taught fullstack web developer, eager to learn and better develop my skills.
 </br>
-  I've made projects using JavaScript, Typescript and ReactJS.
+  I've made projects using Typescript, Javascript, VueJS, NextJs and NodeJs.
 </p>
 
-- 🔭 I’m currently looking for my first developer job.
-- 🌱 I have experience with Typescript, Javascript and ReactJS.
+- 🔭 Currently just having fun creating projects that I'm passionate about.
+- 👨‍🎤🛹 I love rock, to skate and watch anime.
 - ⚡ Fun fact: I speak English, Portuguese, French and a bit of Japonese.
 
 
