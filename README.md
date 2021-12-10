@@ -4,20 +4,25 @@
 </br>
   I've made projects using Typescript, Javascript, VueJS, NextJs, and NodeJs.
 </p>
-
+	
+<p align="left">
 - 🔭 Currently just having fun creating projects that I'm passionate about.
+	<br/>
 - 👨‍🎤🛹 I love rock, to skate and watch anime.
+	<br/>
 - ⚡ Fun fact: I speak English, Portuguese, French and a bit of Japonese.
+</p>
 
-
+## Github Stats
 <div align=center>
-  
+
   [![SitaGomes's github stats](https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=gruvbox&text_color=fff&)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SitaGomes&layout=compact&theme=gruvbox&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
-<div align=center>
+## Socials
+<div  style={{display: "flex"}}>
 	  <a href="https://twitter.com/ArthurSitaGomes">
 	    <img alt="Arthur's twitter" src="https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/ArthurSitaGomes">
 	  </a>
@@ -28,5 +33,10 @@
 
 <br/>
 
-<p align="center"> Quantidade de visitas no meu perfil desde 24/08/2021  </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SitaGomes/count.svg" /></p>
+<div align="center">
+	
+### Nº of visits in my profile since 08/21
+
+<img alingn="center" src="https://profile-counter.glitch.me/SitaGomes/count.svg" />
+</div>
+ 
