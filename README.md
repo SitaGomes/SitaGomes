@@ -8,7 +8,7 @@
 <p align="left">
 - 🔭 Currently just having fun creating projects that I'm passionate about.
 	<br/>
-- 👨‍🎤🛹 I love rock, to skate and watch anime.
+- 👨‍🎤🛹 I love rock, skating and watching anime.
 	<br/>
 - ⚡ Fun fact: I speak English, Portuguese, French and a bit of Japonese.
 </p>
