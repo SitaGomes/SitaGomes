@@ -1,3 +1,8 @@
+<div align=right>
+	<a href="https://github.com/SitaGomes/SitaGomes/blob/main/README_PORTUGUES.md">🇧🇷</a>
+	<a href="https://github.com/SitaGomes/SitaGomes/blob/main/README_FRANCAIS.md">🇫🇷</a>
+</div>
+
 ### What's up 👋
 <p>
   My name's Arthur Sita Gomes, I'm a self-taught full-stack web developer, eager to learn and better develop my skills.
@@ -16,8 +21,14 @@
 ## Github Stats
 <div align=center>
 
-  [![SitaGomes's github stats](https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=gruvbox&text_color=fff&)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SitaGomes&layout=compact&theme=gruvbox&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitaGomes&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
   
 </div>
 
