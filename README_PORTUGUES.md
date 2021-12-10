@@ -11,7 +11,7 @@
 <p>
   Meu nome é Arthur Sita Gomes, sou um devenvolvedor full-stack muito curioso e com muita vontade de aprender coisas novas.
 </br>
-  Já fiz projetos com Typescript, Javascript, VueJS, NextJs, e NodeJs.
+  Já fiz projetos com Typescript, Javascript, VueJS, NextJs, Firebase, e NodeJs.
 </p>
 	
 <p align="left">
