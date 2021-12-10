@@ -1,6 +1,10 @@
 <div align=right>
-	<a href="https://github.com/SitaGomes/SitaGomes/blob/main/README_PORTUGUES.md">🇧🇷</a>
-	<a href="https://github.com/SitaGomes/SitaGomes/blob/main/README_FRANCAIS.md">🇫🇷</a>
+	<a href="https://github.com/SitaGomes/SitaGomes/blob/main/README_PORTUGUES.md">
+		<img width="45" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg"/>
+	</a>
+	<a href="https://github.com/SitaGomes/SitaGomes/blob/main/README_FRANCAIS.md">
+		<img width="45" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fr.svg"/>
+	</a>
 </div>
 
 ### What's up 👋
