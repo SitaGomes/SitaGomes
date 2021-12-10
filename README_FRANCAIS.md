@@ -32,3 +32,25 @@
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
+</div>
+
+## Socials
+	
+<div align=left style={{display: "flex"}}>
+	  <a href="https://twitter.com/ArthurSitaGomes">
+	    <img alt="Arthur's twitter" src="https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/ArthurSitaGomes">
+	  </a>
+	  <a href="https://www.linkedin.com/in/arthur-sita-gomes-3683221b3/">
+	    <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-sita-gomes-3683221b3/">
+	  </a>
+</div>
+
+<br/>
+
+<div align="center">
+	
+### Nº of times people visited my profile since 08/21
+
+<img alingn="center" src="https://profile-counter.glitch.me/SitaGomes/count.svg" />
+</div>
+ 
