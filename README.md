@@ -1,28 +1,28 @@
 <div align=right>
+	<a href="https://github.com/SitaGomes">
+		<img width="30" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gb.svg"/>
+	</a>
 	<a href="https://github.com/SitaGomes/SitaGomes/blob/main/README_PORTUGUES.md">
 		<img width="30" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg"/>
 	</a>
-	<a href="https://github.com/SitaGomes/SitaGomes/blob/main/README_FRANCAIS.md">
-		<img width="30" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fr.svg"/>
-	</a>
 </div>
 
-### What's up 👋
+### Salut, ça va? 🤗
 <p>
-  My name's Arthur Sita Gomes, I'm a self-taught full-stack web developer, eager to learn and better develop my skills.
+  Je m'appelle Arthur Sita Gomes, j'suis en developer full-stack trés curieux et passionné pour la technologie
 </br>
-  I've made projects using Typescript, Javascript, VueJS, NextJs, Firebase and NodeJs.
+  J'ai dejá utilisé Typescript, Javascript, Vue JS, Next Js, Firebase and NodeJs dans mon projets.
 </p>
 	
 <p align="left">
-- 🔭 Currently just having fun creating projects that I'm passionate about.
+- 🔭 Maintenant je passe le temp a faire des projets qui m'intéresse.
 	<br/>
-- 👨‍🎤🛹 I love rock, skating and watching anime.
+- 👨‍🎤🛹 J'adore le rock, faire du skate et regarder des anime.
 	<br/>
-- ⚡ Fun fact: I speak English, Portuguese, French and a bit of Japonese.
+- ⚡ Curiosité: Je parle français, anglais, portugais et en peu de japonais.
 </p>
 
-## Github Stats
+## Github statistiques
 <div align=center>
 
 <a href="https://github.com/Gurupreet">
@@ -30,13 +30,13 @@
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=dracula&line_height=27" alt="Arthur github stats"/>
 </a>
 
   
 </div>
 
-## Socials
+## Réseaux sociaux
 <div  style={{display: "flex"}}>
 	  <a href="https://twitter.com/ArthurSitaGomes">
 	    <img alt="Arthur's twitter" src="https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/ArthurSitaGomes">
@@ -50,7 +50,7 @@
 
 <div align="center">
 	
-### Nº of visits in my profile since 08/21
+### Nº de personnes qui y a voir mon profile depuis 08/21
 
 <img alingn="center" src="https://profile-counter.glitch.me/SitaGomes/count.svg" />
 </div>
