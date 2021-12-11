@@ -17,7 +17,7 @@
 <p align="left">
 - 🔭 Maintenant je passe le temp a faire des projets qui m'intéresse.
 	<br/>
-- 👨‍🎤🛹 J'adore le rock, faire du skate et regarder des anime.
+- 👨‍🎤🛹 J'adore le rock, faire du skate et regarder les anime.
 	<br/>
 - ⚡ Curiosité: Je parle français, anglais, portugais et en peu de japonais.
 </p>
