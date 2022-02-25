@@ -9,7 +9,7 @@
 
 ### Salut, ça va? 🤗
 <p>
-  Je m'appelle Arthur Sita Gomes, j'suis en developer full-stack trés curieux et passionné pour la technologie
+  Je m'appelle Arthur Sita Gomes, j'suis en developer full-stack trés curieux et passionné pour la technologie. Maintenant je faire un cours de ingénierie informatique @PucMinas
 </br>
   J'ai dejá utilisé Typescript, Javascript, Vue JS, Next Js, Firebase and NodeJs dans mon projets.
 </p>
