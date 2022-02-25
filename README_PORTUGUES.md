@@ -9,7 +9,7 @@
 
 ### Oie, joia? 😁
 <p>
-  Meu nome é Arthur Sita Gomes, sou um devenvolvedor full-stack muito curioso e com muita vontade de aprender coisas novas.
+  Meu nome é Arthur Sita Gomes, sou um devenvolvedor full-stack muito curioso e com muita vontade de aprender coisas novas. Atualmente estou cursando Engenharia de Software @PucMinas
 </br>
   Já fiz projetos com Typescript, Javascript, VueJS, NextJs, Firebase, e NodeJs.
 </p>
