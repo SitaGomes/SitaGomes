@@ -11,7 +11,7 @@
 <p>
   Meu nome é Arthur Sita Gomes, sou um devenvolvedor full-stack muito curioso e com muita vontade de aprender coisas novas. Atualmente estou cursando Engenharia de Software @PucMinas
 </br>
-  Já fiz projetos com Typescript, Javascript, VueJS, NextJs, Firebase, e NodeJs.
+  Já fiz projetos com: Typescript, NextJs, ReactJs, Postgresql, ExpresJs e muitos outras tecnologias. De uma olhadinha no meu repositório ☺
 </p>
 	
 <p align="left">
@@ -19,7 +19,7 @@
 	<br/>
 - 👨‍🎤🛹 Eu amo rock, andar de skate e assistir anime.
 	<br/>
-- ⚡ Curiosidade: Eu falo inglês, francês, português e um pouquinho de japonês.
+- ⚡ Curiosidade: Eu falo inglês, francês, português, um pouquinho de japonês e espanhol.
 </p>
 
 ## GitHub estatísticas
