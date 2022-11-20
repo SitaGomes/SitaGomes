@@ -9,9 +9,9 @@
 
 ### Salut, ça va? 🤗
 <p>
-  Je m'appelle Arthur Sita Gomes, j'suis en developer full-stack trés curieux et passionné pour la technologie. Maintenant je faire un cours de ingénierie informatique @PucMinas
+  Je m'appelle Arthur Sita Gomes, j'suis en developer full-stack trés curieux et passionné par la technologie. Maintenant je fait un cours d'ingénierie informatique @PucMinas
 </br>
-  J'ai dejá utilisé Typescript, Javascript, Vue JS, Next Js, Firebase and NodeJs dans mon projets.
+  J'ai dejá utilisé: Typescript, NextJs, ReactJs, Postgresql, ExpresJs et plus de technologie. Vou pouvez faire un coup d'œil sur mon dépôts ☺
 </p>
 	
 <p align="left">
@@ -19,7 +19,7 @@
 	<br/>
 - 👨‍🎤🛹 J'adore le rock, faire du skate et regarder les anime.
 	<br/>
-- ⚡ Curiosité: Je parle français, anglais, portugais et en peu de japonais.
+- ⚡ Curiosité: Je parle français, anglais, portugais, en peu de japonais et espagnol.
 </p>
 
 ## Github statistiques
