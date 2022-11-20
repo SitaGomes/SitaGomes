@@ -11,7 +11,7 @@
 <p>
   My name's Arthur Sita Gomes, I'm a self-taught full-stack web developer majoring in software engineering @PucMinas, I'm eager to always learn and better develop my skills.
 </br>
-  I've made projects using Typescript, Javascript, VueJS, NextJs, Firebase and NodeJs.
+  I've made projects using: Typescript, NextJs, ReactJs, Postgresql, ExpresJs and more. Come check my repository ☺
 </p>
 	
 <p align="left">
@@ -19,7 +19,7 @@
 	<br/>
 - 👨‍🎤🛹 I love rock, skating and watching anime.
 	<br/>
-- ⚡ Fun fact: I speak English, Portuguese, French and a bit of Japonese.
+- ⚡ Fun fact: I speak English, Portuguese, French, a bit of Japonese and spanish.
 </p>
 
 ## Github Stats
