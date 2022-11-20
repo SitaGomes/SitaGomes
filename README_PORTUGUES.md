@@ -11,7 +11,7 @@
 <p>
   Meu nome é Arthur Sita Gomes, sou um devenvolvedor full-stack muito curioso e com muita vontade de aprender coisas novas. Atualmente estou cursando Engenharia de Software @PucMinas
 </br>
-  Já fiz projetos com: Typescript, NextJs, ReactJs, Postgresql, ExpresJs e muitas outras tecnologias. De uma olhadinha no meu repositório ☺
+  Já fiz projetos com: Typescript, NextJs, ReactJs, Postgresql, ExpresJs e muitas outras tecnologias. De uma olhadinha nos meus repositórios ☺
 </p>
 	
 <p align="left">
