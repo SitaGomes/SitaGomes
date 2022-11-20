@@ -39,10 +39,10 @@
 ## Réseaux sociaux
 <div  style={{display: "flex"}}>
 	  <a href="https://twitter.com/ArthurSitaGomes">
-	    <img alt="Arthur's twitter" src="https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/ArthurSitaGomes">
+	    <img alt="Arthur's twitter" src="https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/SitaGomes">
 	  </a>
 	  <a href="https://www.linkedin.com/in/arthur-sita-gomes-3683221b3/">
-	    <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-sita-gomes-3683221b3/">
+	    <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SitaGomes/">
 	  </a>
 </div>
 
