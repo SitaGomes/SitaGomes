@@ -32,6 +32,9 @@
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
+
+![](https://streak-stats.demolab.com/?user=sitagomes&theme=dracula)
+	
 </div>
 
 ## Socials
