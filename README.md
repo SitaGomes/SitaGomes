@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=dracula&line_height=40" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=dracula&line_height=40&custom_title=Sita+Gomes'+Github+Stats" alt="**SEU NOME** github stats"/>
 </a>
 	
 <p></p>
