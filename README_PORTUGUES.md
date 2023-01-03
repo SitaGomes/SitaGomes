@@ -7,7 +7,8 @@
 	</a>
 </div>
 
-### Oie, joia? 😁
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=3500&pause=200&color=FF80BF&width=800&lines=Oie+👋;Joia?+😁;Deixa+eu+me+apresentar...)](https://git.io/typing-svg)
+
 <p>
   Meu nome é Arthur Sita Gomes, sou um devenvolvedor full-stack muito curioso e com muita vontade de aprender coisas novas. Atualmente estou cursando Engenharia de Software @PucMinas
 </br>
@@ -28,22 +29,24 @@
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitaGomes&theme=dracula&hide_langs_below=1" />
 </a>
-
+	
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=dracula&line_height=40&custom_title=Sita+Gomes'+Github+Stats" alt="**SEU NOME** github stats"/>
 </a>
-
   
-</div>
+<p></p>
 
-## Redes sócias
-<div  style={{display: "flex"}}>
-	  <a href="https://twitter.com/Sita_Gomes">
-	    <img alt="Arthur's twitter" src="https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/Sita_Gomes">
-	  </a>
-	  <a href="https://www.linkedin.com/in/sitagomes/">
-	    <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sitagomes/">
-	  </a>
+![](https://streak-stats.demolab.com/?user=sitagomes&theme=dracula)
+	
+</div>
+	
+## Redes sociais
+	
+<div align=left style={{display: "flex" "gap": "20px"}}>
+	
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SitaGomes/)
+[![LinkedIn](https://img.shields.io/badge/-Twitter-08009C?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter/SitaGomes)
+	
 </div>
 
 <br/>
