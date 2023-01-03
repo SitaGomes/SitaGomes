@@ -7,7 +7,10 @@
 	</a>
 </div>
 
-### Salut, ça va? 🤗
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=3500&pause=200&color=FF80BF&width=800&lines=Coucou+👋;Ça+va?+😁;Laissez-moi+me+présenter...)](https://git.io/typing-svg)
+
+
 <p>
   Je m'appelle Arthur Sita Gomes, j'suis en developer full-stack trés curieux et passionné par la technologie. Maintenant je fait un cours d'ingénierie informatique @PucMinas
 </br>
@@ -28,22 +31,23 @@
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitaGomes&theme=dracula&hide_langs_below=1" />
 </a>
-
+	
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=dracula&line_height=27" alt="Arthur github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SitaGomes&show_icons=true&theme=dracula&line_height=40&custom_title=Sita+Gomes'+Github+Stats" alt="**SEU NOME** github stats"/>
 </a>
-
   
+<p></p>
+
+![](https://streak-stats.demolab.com/?user=sitagomes&theme=dracula)
+	
 </div>
 
 ## Réseaux sociaux
 <div  style={{display: "flex"}}>
-	  <a href="https://twitter.com/Sita_Gomes">
-	    <img alt="Arthur's twitter" src="https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/SitaGomes">
-	  </a>
-	  <a href="https://www.linkedin.com/in/sitagomes/">
-	    <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SitaGomes/">
-	  </a>
+	
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SitaGomes/)
+[![LinkedIn](https://img.shields.io/badge/-Twitter-08009C?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter/SitaGomes)
+	
 </div>
 
 <br/>
