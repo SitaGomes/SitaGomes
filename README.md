@@ -7,7 +7,7 @@
 	</a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=4000&pause=700&color=FF80BF&width=800&lines=Hey%2C+what's+up+👋;Doing+good?+😁;Let+me+introduce+myself)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=3500&pause=200&color=FF80BF&width=800&lines=Hey%2C+what's+up+👋;Doing+good?+😁;Let+me+introduce+myself)](https://git.io/typing-svg)
 
 <p>
   My name's Arthur Sita Gomes, I'm a self-taught full-stack web developer majoring in software engineering @PucMinas, I'm always eager to learn and better develop my skills.
