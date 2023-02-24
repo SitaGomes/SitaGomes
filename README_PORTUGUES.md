@@ -20,6 +20,8 @@
 	<br/>
 - 👨‍🎤🛹 Eu amo rock, andar de skate e assistir anime.
 	<br/>
+- 👷 Estágiario de engenharia de software @OuvidorDigital
+		<br/>
 - ⚡ Curiosidade: Eu falo inglês, francês, português, um pouquinho de japonês e espanhol.
 </p>
 
