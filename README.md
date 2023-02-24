@@ -20,9 +20,9 @@
 	<br/>
 - 👨‍🎤🛹 I love rock, skating and watching anime.
 	<br/>
-- ⚡ Fun fact: I speak English, Portuguese, French, a bit of Japonese and spanish.
-	<br/>
 - 👷 Software engineer intern @OuvidorDigital
+		<br/>
+- ⚡ Fun fact: I speak English, Portuguese, French, a bit of Japonese and spanish.
 </p>
 
 ## Github Stats
