@@ -12,7 +12,7 @@
 
 
 <p>
-  Je m'appelle Arthur Sita Gomes, j'suis en developer full-stack trés curieux et passionné par la technologie. Maintenant je fait un cours d'ingénierie informatique @PucMinas
+  Je m'appelle Arthur Sita Gomes, j'suis en developer full-stack trés curieux et passionné par la technologie. Maintenant je fait un cours d'ingénierie du software @PucMinas
 </br>
   J'ai dejá utilisé: Typescript, NextJs, ReactJs, Postgresql, ExpresJs et plus de technologie. Vou pouvez faire un coup d'œil sur mon dépôts ☺
 </p>
@@ -21,6 +21,8 @@
 - 🔭 Maintenant je passe le temp a faire des projets qui m'intéresse.
 	<br/>
 - 👨‍🎤🛹 J'adore le rock, faire du skate et regarder les anime.
+	<br/>
+- 👷 Ingénier du software @OuvidorDigital
 	<br/>
 - ⚡ Curiosité: Je parle français, anglais, portugais, en peu de japonais et espagnol.
 </p>
