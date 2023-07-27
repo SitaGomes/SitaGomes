@@ -47,7 +47,7 @@
 <div align=left style={{display: "flex" "gap": "20px"}}>
 	
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SitaGomes/)
-[![LinkedIn](https://img.shields.io/badge/-Twitter-08009C?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter/SitaGomes)
+[![LinkedIn](https://img.shields.io/badge/-Twitter-08009C?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/SitaGomes)
 	
 </div>
 
