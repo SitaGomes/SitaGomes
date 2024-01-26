@@ -14,17 +14,17 @@
 <p>
   Je m'appelle Arthur Sita Gomes, j'suis en developer full-stack trés curieux et passionné par la technologie. Maintenant je fait un cours d'ingénierie du software @PucMinas
 </br>
-  J'ai dejá utilisé: Typescript, NextJs, ReactJs, Postgresql, ExpresJs et plus de technologie. Vou pouvez faire un coup d'œil sur mon dépôts ☺
+  J'ai dejá utilisé: Typescript, NextJs, ReactJs, Redux, Postgresql, ExpresJs, Cypress, Jest et plus de otres technologie. Vou pouvez faire un coup d'œil sur mon projects ☺
 </p>
 	
 <p align="left">
-- 🔭 Maintenant je passe le temp a faire des projets qui m'intéresse.
+- 🔭 Maintenant je passe le temp a faire des projets qui m'inspire.
 	<br/>
 - 👨‍🎤🛹 J'adore le rock, faire du skate et regarder les anime.
 	<br/>
 - 👷 Ingénier du software @OuvidorDigital
 	<br/>
-- ⚡ Curiosité: Je parle français, anglais, portugais, en peu de japonais et espagnol.
+- ⚡ Curiosité: Je parle français, anglais, portugais, et en peu de japonais et espagnol.
 </p>
 
 ## Github statistiques
