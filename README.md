@@ -12,7 +12,7 @@
 <p>
   My name's Arthur Sita Gomes, I'm a self-taught full-stack web developer majoring in software engineering @PucMinas, I'm always eager to learn and better develop my skills.
 </br>
-  I have working experience with: Typescript, NextJs, ReactJs, NodeJs, Jest, Cypress and many more. Come take a look at my projects ☺
+  I have working experience with: Typescript, NextJs, ReactJs, Redux, NodeJs, Jest, Cypress and many more. Come take a look at my projects ☺
 </p>
 	
 <p align="left">
