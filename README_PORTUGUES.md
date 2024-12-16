@@ -25,6 +25,102 @@
 - ⚡ Curiosidade: Eu falo inglês, francês, português, um pouquinho de japonês e espanhol.
 </p>
 
+## Tecnologias & Ferramentas:
+
+<table align="center">
+    <tr>
+	<td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48"/>
+            <br>JavaScript
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48"/>
+            <br>TypeScript
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS"/>
+            <br>NodeJS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
+            <br>Express
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Express"/>
+            <br>Nest
+        </td>
+	<td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48"/>
+            <br>Docker
+        </td>
+	<td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP"/>
+            <br>GCP
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48"/>
+            <br>React
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"/>
+            <br>Redux
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS"/>
+            <br>NextJS
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL"/>
+            <br>GraphQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48"/>
+            <br>Sass
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind"/>
+            <br>Tailwind
+        </td>
+	<td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="tailwind"/>
+            <br>Sass
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+            <br>PostgreSQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48"/>
+            <br>MySQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+            <br>MongoDB
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
+            <br>Firebase
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"/>
+            <br>Supabase
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"/>
+            <br>RabbitMQ
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
+            <br>Redis
+        </td>
+    </tr>
+</table>
+
+
 ## GitHub estatísticas
 <div align=center>
 
