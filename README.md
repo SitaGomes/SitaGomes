@@ -82,8 +82,8 @@
             <br>Tailwind
         </td>
 	<td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="tailwind"/>
-            <br>Sass
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css"/>
+            <br>CSS3
         </td>
     </tr>
     <tr>
