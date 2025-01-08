@@ -82,8 +82,8 @@
             <br>Tailwind
         </td>
 	<td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css"/>
-            <br>CSS3
+            <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="48" height="48" alt="css"/>
+            <br>Jest
         </td>
     </tr>
     <tr>
